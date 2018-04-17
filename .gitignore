@@ -1,3 +1,4 @@
 /dataset/*
 /script/*
-/.ipynb_checkpoints/*
+.*
+!/.gitignore
